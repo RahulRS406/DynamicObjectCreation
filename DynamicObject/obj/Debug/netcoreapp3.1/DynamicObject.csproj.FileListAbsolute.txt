@@ -1,0 +1,13 @@
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.exe
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.deps.json
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.runtimeconfig.json
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.runtimeconfig.dev.json
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.dll
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.pdb
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.csprojAssemblyReference.cache
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.AssemblyInfoInputs.cache
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.AssemblyInfo.cs
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.csproj.CoreCompileInputs.cache
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.dll
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.pdb
+D:\Personal\CreatingDynamicObjects\DynamicObject\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.genruntimeconfig.cache
